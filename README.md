@@ -1,4 +1,4 @@
-# Tommy's Bootstrap testing boilerplate
+# Marta's Bootstrap testing boilerplate
 First test is written in `./test.js`
 
 ### Visual testing
